@@ -1,0 +1,18 @@
+BRAIN TUMOR DETECTION ANALYSIS REPORT
+==================================================
+
+Patient Name: John Doe
+Mobile: 1234567890
+Gender: Male
+Age: 45 years
+Analysis Date: 2024-01-01 12:00:00
+Image File: sample_mri.jpg
+
+ANALYSIS RESULT: No Tumor
+Confidence Score: 0.234 (23.4%)
+
+RECOMMENDATION:
+No signs of tumor detected. Continue regular health checkups as recommended by your doctor.
+
+Note: This is a computer-assisted analysis and should not replace professional medical diagnosis.
+Please consult with qualified medical professionals for proper diagnosis and treatment.

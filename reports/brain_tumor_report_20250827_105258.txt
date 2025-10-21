@@ -1,0 +1,18 @@
+BRAIN TUMOR DETECTION ANALYSIS REPORT
+==================================================
+
+Patient Name: Abir Saha
+Mobile: 9641049025
+Gender: Male
+Age: 22 years
+Analysis Date: 2025-08-27 10:52:58
+Image File: 8 no.jpg
+
+ANALYSIS RESULT: No Tumor
+Confidence Score: 0.000 (0.0%)
+
+RECOMMENDATION:
+No signs of tumor detected. Continue regular health checkups.
+
+Note: This is a computer-assisted analysis and should not replace professional medical diagnosis.
+Please consult with qualified medical professionals for proper diagnosis and treatment.
