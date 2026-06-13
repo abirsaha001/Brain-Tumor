@@ -1,0 +1,9 @@
+BRAIN TUMOR DETECTION REPORT
+==================================================
+
+Patient Name: Abir Saha
+Mobile: 9641049025
+Gender: Male
+Age: 16
+Date: 2025-08-27 10:31:59
+
