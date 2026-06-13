@@ -37,6 +37,3 @@ Once you see this url - http://127.0.0.1:5000/ in logs, open it in browser.
 
 Now your setup is ready.
 =======
-# Brain-Tumor
-This project deals with the detection of Brain Tumor using CNN and MRI scans of the image.
->>>>>>> 6bf335f881df7b8abe05e0991219f17d28785d66
